@@ -1,1 +1,3 @@
 # roll
+
+Roll a dice.
